@@ -68,8 +68,6 @@ print(X)
 <img width="987" height="195" alt="image" src="https://github.com/user-attachments/assets/c244bbe6-ddc4-4729-bfd6-da0d9f80c5b3" />
 
 
-![lu decomposition]()
-
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
