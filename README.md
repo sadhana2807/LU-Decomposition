@@ -65,7 +65,7 @@ print(X)
 
 <img width="976" height="356" alt="image" src="https://github.com/user-attachments/assets/900aa59f-320c-4793-9603-28c7087c646e" />
 
-<img width="961" height="676" alt="image" src="https://github.com/user-attachments/assets/6d880adc-f339-4a24-a552-b7effc4afc6a" />
+<img width="987" height="195" alt="image" src="https://github.com/user-attachments/assets/c244bbe6-ddc4-4729-bfd6-da0d9f80c5b3" />
 
 
 ![lu decomposition]()
