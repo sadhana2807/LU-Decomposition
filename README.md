@@ -27,7 +27,7 @@ Algorithm – To Find LU Decomposition
 
 ## Program:
 (i) To find the L and U matrix
-```
+```python
 '''Program to find L and U matrix using LU decomposition.
 Developed by: Sadhana K
 RegisterNumber: 212225240128
@@ -43,7 +43,7 @@ print(U)
 
 ```
 (ii) To find the LU Decomposition of a matrix
-```
+```python 
 '''Program to solve a matrix using LU decomposition.
 Developed by: Sadhana K
 RegisterNumber: 212225240128
@@ -63,7 +63,7 @@ print(X)
 
 ## Output:
 
-<img width="1039" height="824" alt="image" src="https://github.com/user-attachments/assets/293f4778-39da-451c-b042-a6c061696753" />
+<img width="976" height="356" alt="image" src="https://github.com/user-attachments/assets/900aa59f-320c-4793-9603-28c7087c646e" />
 
 <img width="961" height="676" alt="image" src="https://github.com/user-attachments/assets/6d880adc-f339-4a24-a552-b7effc4afc6a" />
 
